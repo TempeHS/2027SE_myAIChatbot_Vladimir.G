@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Chatbot database
+chatbot_database.sqlite3
+
 # C extensions
 *.so
 
