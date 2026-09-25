@@ -28,7 +28,7 @@ Vladimir.G add_link
 * 0.1 - Initial Release
 
 ## License
-This project is licensed under the [NAME HERE] License
+This project is licensed under the GNU GPL v3.0 License
 
 ## Acknowledgments
 Inspiration, code snippets, etc.
